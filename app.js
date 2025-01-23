@@ -29,10 +29,11 @@ function agregarAmigo() {
     nombreAmigo = document.getElementById("amigo").value;
 
     if (nombreAmigo == "") {
-        alert("Por favor, inserte un nombre.")
+        alert("Por favor, inserte un nombre.");
         return;
     } else {
-        listaNombres.push(nombreAmigo)
+        listaNombres.push(nombreAmigo);
     }
+    mostrarListaAmigos();
     limpiarCaja();
 }; 
