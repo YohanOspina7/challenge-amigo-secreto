@@ -1,6 +1,10 @@
 let listaNombres = [];
 let nombreAmigo;
 
+function limpiarCaja() {
+    document.querySelector("#amigo").value = "";
+};
+
 function asignarTextoElemento(elemento, texto) {
     let elementoHTML = document.querySelector(elemento);
     elementoHTML.innerHTML = texto;
@@ -16,4 +20,5 @@ function agregarAmigo() {
     } else {
         listaNombres.push(nombreAmigo)
     }
+    limpiarCaja();
 }; 
