@@ -10,7 +10,7 @@ function mostrarListaAmigos() {
     for (let i = 0; i < listaNombres.length; i++) {
         let listaLi = document.createElement("li"); // Creamos un nuevo <li>
         listaLi.textContent = listaNombres[i]; // Le asignamos el nombre del amigo
-        listaLi.appendChild(li); // Agregamos el <li> a la lista  
+        elementoHTML.appendChild(listaLi); // Agregamos el <li> a la lista  
     } 
     limpiarCaja();
 }
