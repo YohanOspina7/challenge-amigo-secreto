@@ -14,4 +14,4 @@ una aplicación web sencilla desarrollada en Java con una interfaz en HTML que p
   Instalacion
 </h2>
 - Al ser una pagina hecha en codigo html usando JavaScript para la iteractividad solo requiere descargar el archivo en github, para luego abrir la pagina con el link de la ruta local como se muestra a continuacion.
-![imagen](https://github.com/user-attachments/assets/a65a0ba6-b047-4f64-bf78-20279e6c2510)
+<img src="" alt="imagen1" width="300">
