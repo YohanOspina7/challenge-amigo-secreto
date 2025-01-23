@@ -1,5 +1,7 @@
 let listaNombres = [];
 let nombreAmigo;
+let amigoAleatorio;
+let amigoSorteado;
 
 // Función para recorrer el array y actualizar la lista.
 function mostrarListaAmigos() {
@@ -38,4 +40,18 @@ function agregarAmigo() {
     }
     mostrarListaAmigos();
     limpiarCaja();
-}; 
+};
+
+// Funcion que sortea de forma aleatoria la lista para seleccionar uno de los valores y mostrarlo en pantallla
+function sortearAmigo() {
+    // valida que la lista tenga nombres
+    if (listaNombres.length == 0) {
+        alert("No hay nombres en la lista, por favor inserte algunos nombres");
+        return;
+    }
+    
+    amigoAleatorio = Math.floor(Math.random() * listaNombres.length);
+    amigoSorteado = listaNombres[amigoAleatorio]
+
+    document.getElementById(resultado).innerHTML = `Amigo: ${amigoSorteado}`;
+}
