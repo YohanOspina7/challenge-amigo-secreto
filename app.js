@@ -3,7 +3,7 @@ let nombreAmigo;
 
 // Función para recorrer el array y actualizar la lista.
 function mostrarListaAmigos() {
-    elementoHTML = document.getElementById("#listaAmigos") // Seleccionamos la lista en el HTML
+    elementoHTML = document.getElementById("listaAmigos") // Seleccionamos la lista en el HTML
     elementoHTML.innerHTML = ""; // Limpiamos la lista para evitar duplicados
     
     // Recorremos el array listaNombres con un bucle for
