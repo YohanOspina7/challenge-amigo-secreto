@@ -16,15 +16,17 @@ function mostrarListaAmigos() {
 }
 
 function limpiarCaja() {
-    document.querySelector("#amigo").value = "";
+    document.querySelector("#amigo").value = ""; // selencionamos el valor del elemento html con id amigo
 };
 
+// Una funcion para cambiar texto de los elemento html
 function asignarTextoElemento(elemento, texto) {
-    let elementoHTML = document.querySelector(elemento);
+    let elementoHTML = document.querySelector(elemento); 
     elementoHTML.innerHTML = texto;
     return;
 };
 
+// Funcion que agrega el valor del input con id amigo y lo almacena en la lista llamada listaNombre
 function agregarAmigo() {
     nombreAmigo = document.getElementById("amigo").value;
 
