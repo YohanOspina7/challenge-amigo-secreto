@@ -1,4 +1,1 @@
-<h1 align="center">
-  Challenge del amigo secreto
-</h1>
--Challenge propuesto por Alura Latam
+![Banner-ejercicio-alura-latam](https://www.canva.com/design/DAGdD9N_iW0/hSVtmQkWCS0wPgzxfzWaug/view?utm_content=DAGdD9N_iW0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd3606887d1)
