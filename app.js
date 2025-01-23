@@ -1,13 +1,13 @@
 let listaNombres = [];
-let amigo;
+let nombreAmigo;
 
 function agregarAmigo() {
-    amigo = document.getElementById("amigo")
+    nombreAmigo = document.getElementById("amigo")
 
-    if (amigo == "") {
+    if (nombreAmigo == "") {
         alert("Por favor, inserte un nombre.")
         return;
     } else {
-        listaNombres.push(amigo)
+        listaNombres.push(nombreAmigo)
     }
-};
+}; 
