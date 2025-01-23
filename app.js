@@ -53,5 +53,5 @@ function sortearAmigo() {
     amigoAleatorio = Math.floor(Math.random() * listaNombres.length);
     amigoSorteado = listaNombres[amigoAleatorio]
 
-    document.getElementById(resultado).innerHTML = `Amigo: ${amigoSorteado}`;
+    document.getElementById("resultado").innerHTML = `Amigo: ${amigoSorteado}`;
 }
