@@ -22,3 +22,6 @@ Extraemos el archivo.zip<br>
 Entramos al archivo que se nos mostrara depues de extraer y abrimos la ruta local en el navegador.<br>
 3.
 <img src="assets/Abrimos la ruta en el navegador.jpeg" alt="imagen3" width="500">
+El ultimo paso en nuestro camino es la felicidad, abiendo seguido estos 4 pasos solo queda probrar la pagina y divertirnos.<br>
+4.
+<img src="assets/Ser feliz.jpeg" alt="feliz" width="500">
