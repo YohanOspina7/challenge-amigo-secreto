@@ -30,6 +30,11 @@ El ultimo paso en nuestro camino es la felicidad, abiendo seguido estos 4 pasos 
 </h2>
 Para clonar el repostorio solo debes copiar el siguiente link en la termial de bash de git o simplemente en la terminal de linux (Linux es compatible y no requiere intalar otra terminal como en windows)
 <h3>
-  Mediante la web URL
+  HTTPS
 </h3>
+git clone https://github.com/YohanOspina7/challenge-amigo-secreto.git
+<h3>
+  SSH
+</h3>
+git clone
 
