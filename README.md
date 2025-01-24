@@ -25,3 +25,7 @@ Entramos al archivo que se nos mostrara depues de extraer y abrimos la ruta loca
 El ultimo paso en nuestro camino es la felicidad, abiendo seguido estos 4 pasos solo queda probrar la pagina y divertirnos.<br>
 4.
 <img src="assets/Ser feliz.jpeg" alt="feliz" width="500">
+<h2>
+  Clonar repositorio
+</h2>
+Para clonar el repostorio solo debes copiar el siguiente link en la termial de bash de git o simplemente en la terminal de linux (Linux es compatible y no requiere intalar otra terminal como en windows)
