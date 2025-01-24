@@ -31,7 +31,8 @@ El ultimo paso en nuestro camino es la felicidad, abiendo seguido estos 4 pasos 
 
 ## Trabajo final ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+<img src="assets/imagen finala amigo secreto.jpeg" alt="feliz" width="1000"><br>
+
 
 ## Tecnologias utilizadas 🛠️
 1.HTML para la estructura <br>
