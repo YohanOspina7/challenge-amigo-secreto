@@ -16,3 +16,6 @@ una aplicación web sencilla desarrollada en Java con una interfaz en HTML que p
 Al ser una pagina hecha en codigo html usando JavaScript para la iteractividad solo requiere descargar el archivo en github, para luego abrir la pagina con el link de la ruta local como se muestra a continuacion.<br>
 1.
 <img src="assets/imagen descarga archivo zip.jpeg" alt="imagen1" width="500">
+Luego extraemos el archivo.zip<br>
+2.
+<img src="assets/Extraer aqui.jpeg" alt="imagen2" width="500">
